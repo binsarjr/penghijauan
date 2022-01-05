@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "binsarjr121@gmail.com"
-          git config --local user.name "binsarjr"
+          git config --local user.email "pilisa4377@veb34.com"
+          git config --local user.name "seansans"
           git add -A
           git commit -m "Penghijauan"
           
