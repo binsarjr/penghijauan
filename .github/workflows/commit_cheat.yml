@@ -51,5 +51,5 @@ jobs:
         uses: ad-m/github-push-action@v0.5.0
         with:
           force: true
-          directory: "/github/workspace"
+          directory: "."
           github_token: ${{ secrets.GITHUB_TOKEN }}
